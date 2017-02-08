@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "958068448777",
+    "firebase_url": "https://client-1479347452478.firebaseio.com",
+    "project_id": "client-1479347452478",
+    "storage_bucket": "client-1479347452478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958068448777:android:e3327ea11bb6b8c4",
+        "android_client_info": {
+          "package_name": "com.alhikmah.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958068448777-oup66o7rgtjh9ditisbeef917fkm563d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8JklnWxxIhxk62-prmX5vl8Pem4Agq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958068448777:android:3f51d3544980fab3",
+        "android_client_info": {
+          "package_name": "com.passenger.ucabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958068448777-oup66o7rgtjh9ditisbeef917fkm563d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8JklnWxxIhxk62-prmX5vl8Pem4Agq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958068448777:android:f951b5839bc47da9",
+        "android_client_info": {
+          "package_name": "com.alhikmah.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958068448777-oup66o7rgtjh9ditisbeef917fkm563d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8JklnWxxIhxk62-prmX5vl8Pem4Agq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958068448777:android:0ce161260cd626ad",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958068448777-oup66o7rgtjh9ditisbeef917fkm563d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8JklnWxxIhxk62-prmX5vl8Pem4Agq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958068448777:android:4448b921555339ff",
+        "android_client_info": {
+          "package_name": "com.alhikmah.paytabssample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958068448777-oup66o7rgtjh9ditisbeef917fkm563d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz8JklnWxxIhxk62-prmX5vl8Pem4Agq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

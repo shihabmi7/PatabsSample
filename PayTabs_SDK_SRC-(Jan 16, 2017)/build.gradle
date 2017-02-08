@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('PayTabs_SDK_SRC-(Jan 16, 2017).aar'))
